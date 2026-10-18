@@ -12,7 +12,7 @@ I have 3 projects too:
 
 3)Nano Sink — Smart Kitchen Assistant
 
- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33808493-3dad-4c9d-b89b-8f8eeacfe002" />
+<img width="1348" height="644" alt="image" src="https://github.com/user-attachments/assets/097bc6a8-4ec2-4ce2-b1d0-5e3391cde318" />
 
    Thanks for reading my ReadME . Bye!!!
 
