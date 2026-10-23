@@ -14,6 +14,11 @@ I have 3 projects too:
 
 <img width="1348" height="644" alt="image" src="https://github.com/user-attachments/assets/097bc6a8-4ec2-4ce2-b1d0-5e3391cde318" />
 
-   Thanks for reading my ReadME . Bye!!!
 
+Why I made this project?
 
+It was simple and easy to build as I am learning coding as A beginer , It also helps others know about me without me telling them everything and while applying t jobs etc I can use it as a PORTFOLIO!!!
+
+It was a lot of fun coding it and I hope I can enjoy the Reward with same happiness and satisfaction.
+
+Thanks FOR READING MY README.md
